@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-    console.log("DOM load success");
+    document.body.innerHTML = "DOM load success";
 });
